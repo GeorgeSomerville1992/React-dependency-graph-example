@@ -1,4 +1,4 @@
-# reactive-Programing playaround
+# reactive-programming playaround
 
 Creating a react dependency graph using 
 	- Useeffect 
